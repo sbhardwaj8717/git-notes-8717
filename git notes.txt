@@ -1,0 +1,11 @@
+1. git init 
+	 to initialise a git repository for a new or existing project.
+
+2. git add <file_name> 
+	 to add a file in the staging area of the git.
+
+3. git status
+ 	 list the files you have changed and those you still need to add or commit.
+
+4. git commit -m "commit msz here"
+ 	commit changes to head
