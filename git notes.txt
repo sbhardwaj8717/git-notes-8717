@@ -8,4 +8,25 @@
  	 list the files you have changed and those you still need to add or commit.
 
 4. git commit -m "commit msz here"
- 	commit changes to head
+ 	commit changes to head and create checkpoints in local server
+	last commited file will be on head
+
+	add + commite = git commite -am "file_name"
+
+5. git log
+ 	used to check the all the commites over a project or repo
+
+6. git rm --cached <file_name>
+	to remove files from Staging area(unstage)
+
+7. git branch <branch_name>
+	to switch from current branch to another
+
+8. git checkout <branch_name>
+	to move a new branch
+
+9. git merge <branch_name>
+	to merge a branch into current branch
+
+
+
