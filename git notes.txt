@@ -27,4 +27,3 @@
 
 9. git merge <branch_name>
 	to merge a branch into current branch
-
